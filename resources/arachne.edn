@@ -1,0 +1,3 @@
+[{:arachne/name :ui/app
+  :arachne/inits ["config/ui.clj"]
+  :arachne/dependencies [:org.arachne-framework/arachne-core]}]
